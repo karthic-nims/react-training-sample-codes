@@ -1,0 +1,13 @@
+.error {
+    color: red
+}
+
+.invalid {
+    border-color: red;
+    outline: none;
+}
+
+.valid {
+    border-color: green;
+    outline: none;
+}
